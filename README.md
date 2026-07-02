@@ -11,7 +11,7 @@ The program allows you to:
 - Keyboard shortcuts for mode switching and clean exit
 - Single Tkinter window reused across all modes
 
-- <br>
+<br>
 
 ## 🖼️ | Preview
 
@@ -41,20 +41,20 @@ The program allows you to:
 - Decoupled overlay lifecycle using stop callbacks
 - Global keyboard event handling
 
-- <br>
+<br>
 
 ## 🛠️ | Technologies & Libraries
 - `tkinter` – GUI framework (GUI & Canvas)
 - `keyboard` - global hotkeys & key state detection
 
-- <br>
+<br>
 
 ## 📁 | Project Structure
 - `overlays/` - Overlay design & logic (space and arrow up key)
 - `ui/` - UI setup for the main window
 - `main.py` - Application entry point & mode control
 
-- <br>
+<br>
 
 ## 🧑‍⚖️ | Credits
 The GIF was made using [ezgif](https://ezgif.com/maker)
@@ -94,7 +94,7 @@ python main.py
 - It is designed specifically for Windows systems
 - ChatGPT was used as a development assistant to refine the overlay lifecycle and optimize performance-critical update loops.
 
-- <br>
+<br>
 
 ## 🐛 | Bugs
 - Feel free to report any bugs
