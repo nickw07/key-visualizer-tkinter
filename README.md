@@ -10,7 +10,8 @@ The program allows you to:
 - Always-on-top overlay
 - Keyboard shortcuts for mode switching and clean exit
 - Single Tkinter window reused across all modes
-<br>
+
+- <br>
 
 ## 🖼️ | Preview
 
@@ -22,6 +23,7 @@ The program allows you to:
 
 ### 2. Hotkeys
 ![Preview for space bar key](github-assets/hotkeys-preview.gif)
+
 <br>
 
 ## 🎮 | Controls
@@ -29,6 +31,7 @@ The program allows you to:
 |----------------|------------------|
 | Return to menu | Ctrl + Shift + O |
 | Exit program   | Ctrl + Shift + M |
+
 <br>
 
 ## 🧠 | Concepts used
@@ -37,21 +40,25 @@ The program allows you to:
 - Overlay window configuration (frameless, transparent, topmost)
 - Decoupled overlay lifecycle using stop callbacks
 - Global keyboard event handling
-<br>
+
+- <br>
 
 ## 🛠️ | Technologies & Libraries
 - `tkinter` – GUI framework (GUI & Canvas)
 - `keyboard` - global hotkeys & key state detection
-<br>
+
+- <br>
 
 ## 📁 | Project Structure
 - `overlays/` - Overlay design & logic (space and arrow up key)
 - `ui/` - UI setup for the main window
 - `main.py` - Application entry point & mode control
-<br>
+
+- <br>
 
 ## 🧑‍⚖️ | Credits
 The GIF was made using [ezgif](https://ezgif.com/maker)
+
 <br>
 
 ## 🚀 | Installation
@@ -79,13 +86,15 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
 <br>
 
 ## 📒 | Notes
 - The application was developed using Python 3.x and PyCharm
 - It is designed specifically for Windows systems
 - ChatGPT was used as a development assistant to refine the overlay lifecycle and optimize performance-critical update loops.
-<br>
+
+- <br>
 
 ## 🐛 | Bugs
 - Feel free to report any bugs
