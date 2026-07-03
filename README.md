@@ -15,13 +15,16 @@ The program allows you to:
 
 ## 🖼️ | Preview
 
+### Main menu
+![Preview for Main menu](github-assets/menu_ui_preview.png)
+
 ### 1. Arrow Up indicator
 ![Preview for Arrow up key](github-assets/up-indicator-preview.gif)
 
 ### 2. Space bar indicator
 ![Preview for space bar key](github-assets/space-indicator-preview.gif)
 
-### 2. Hotkeys
+### 3. Hotkeys
 ![Preview for space bar key](github-assets/hotkeys-preview.gif)
 
 <br>
